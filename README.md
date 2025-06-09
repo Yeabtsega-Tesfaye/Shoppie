@@ -15,6 +15,8 @@
 
   <a href="https://yeabtsega-tesfaye.github.io/shoppie/"><strong>➥ Live Demo</strong></a>
 
+<a href="https://Yeabtsega-Tesfaye.github.io/Shoppie/"><strong>➥ Live Demo</strong></a>
+
 </div>
 
 <br />
